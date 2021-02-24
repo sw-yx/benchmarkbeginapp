@@ -1,2 +1,0 @@
-# benchmarkbeginapp
-Begin app
